@@ -1,0 +1,7 @@
+,before,after
+rows,20,20
+columns,11,12
+missing_cells,25,2
+duplicate_rows,0,0
+numeric_columns,2,7
+text_columns,9,5
